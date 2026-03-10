@@ -1,1 +1,1 @@
-print('print shiru')
+print('print')
